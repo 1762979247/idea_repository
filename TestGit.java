@@ -12,7 +12,7 @@ public class TestGit {
     
     }
     public void m3(){
-
+        int as = 1;
     }
 
 }
