@@ -13,6 +13,7 @@ public class TestGit {
     }
     public void m3(){
         int a =100;
+        int as = 1;
     }
 
 }
