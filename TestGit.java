@@ -8,7 +8,5 @@ public class TestGit {
     public void m1(){
 
     }
-    public void m3(){
 
-    }
 }
